@@ -1,5 +1,5 @@
 from whatsappspam import Whats
-from discordSpambot import DiscordSpam
+from SpamDiscord import SpamDiscord
 from messegerbot import MessegerspamBot
 from telegrambot import TelegramBot
 import time
@@ -9,7 +9,7 @@ import time
 #conocidas por el publico en general. Esta hecho enteramente en python 3, y se puede usar ejecutando el fichero
 #SpammingBots.py. 
 #-------------------------------------------------------------------------------------------------------------
-
+# Nueva version lanzada 1.8.7 *Explicaciones en el README
 def Portada():
 	print("""	    .andAHHAbnn. 
            .aAHHHAAUUAAHHHAn.
@@ -20,9 +20,9 @@ def Portada():
     I  HF~"_____        ____ ]HHH  I    
    HHI HAPK""~^YUHb  dAHHHHHHHHHH IHH   
    HHI HHHD> .andHH  HHUUP^~YHHHH IHH
-   YUI ]HHP     "~Y  P~"     THH[ IUP   //_Spamming Bots_//
-    "  `HK                   ]HH'  "  *Alpha Version 1.1.0 BY Jeff McWill
-        THAn.  .d.aAAn.b.  .dHHP
+   YUI ]HHP     "~Y  P~"     THH[ IUP   Spamming Bots BY Jeff McWill
+    "  `HK                   ]HH'  "         *Alpha 1.8.7*
+        THAn.  .d.aAAn.b.  .dHHP       
         ]HHHHAAUP" ~~ "YUAAHHHH[
         `HHP^~"  .annn.  "~^YHH'
          YHb    ~" "" "~    dHF
@@ -51,7 +51,7 @@ def Main():
 3. Telegram Spam Bot 
 (Requiere estar logueado en "web.telegram.org".)
 
-4. Discord "Channel" Spam Bot("Experimental")
+4. Discord "Channel" and "DM" Spam Bot.
 (requiere estar conectado a la version de escritorio de discord para sacar algunos parametros.)
 ------------------------------------------------------------------------------------------
 5. Salir
@@ -78,9 +78,9 @@ def Main():
 				break
 				
 			elif opcion == 4:
-				print("Iniciando Discord Spam Bot...")
+				print("Iniciando Spam Discord Bot...")
 				time.sleep(1)
-				DiscordSpam()
+				SpamDiscord()
 				break
 
 			elif opcion == 5:

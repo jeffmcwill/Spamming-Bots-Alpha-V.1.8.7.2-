@@ -9,7 +9,7 @@ import time
 #conocidas por el publico en general. Esta hecho enteramente en python 3, y se puede usar ejecutando el fichero
 #SpammingBots.py. 
 #-------------------------------------------------------------------------------------------------------------
-# Nueva version lanzada 1.8.7.1 *Explicaciones en el README*
+# Nueva version lanzada 1.8.7.2 *Explicaciones en el README*
 def Portada():
 	print("""	    .andAHHAbnn. 
            .aAHHHAAUUAAHHHAn.
@@ -21,7 +21,7 @@ def Portada():
    HHI HAPK""~^YUHb  dAHHHHHHHHHH IHH   
    HHI HHHD> .andHH  HHUUP^~YHHHH IHH
    YUI ]HHP     "~Y  P~"     THH[ IUP   Spamming Bots BY Jeff McWill
-    "  `HK                   ]HH'  "         *Alpha 1.8.7.1*
+    "  `HK                   ]HH'  "         *Alpha 1.8.7.2*
         THAn.  .d.aAAn.b.  .dHHP       
         ]HHHHAAUP" ~~ "YUAAHHHH[
         `HHP^~"  .annn.  "~^YHH'

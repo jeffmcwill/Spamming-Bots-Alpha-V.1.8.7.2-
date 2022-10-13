@@ -1,11 +1,19 @@
-NUEVA VERSION Alpha 1.8.7 *Mas funcional que antes :3* :
+*NUEVA VERSION Alpha V.1.8.7.1
+------------------------------
+#cambios:
+_nuevas especificaciones en el bot de whatsapp para que el usuario pueda usarlo mejor. esperando por mas testers :)
+_los nuevos cambios futuros seran de mas cosas.
+_herobrine eliminado.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+*NUEVA VERSION Alpha 1.8.7 *Mas funcional que antes :3* :
 ---------------------------
 #cambios:
-se modifico el bot de discord, el antiguo tenia ciertos errores y era dificultoso usarlo. asi que cree una nueva version mas sencilla de usar y mas util, ya que 
+_se modifico el bot de discord, el antiguo tenia ciertos errores y era dificultoso usarlo. asi que cree una nueva version mas sencilla de usar y mas util, ya que 
 permite su uso tanto en canales de discord como en DMs de usuarios. ¡¡PRUEBALO!!
 #Herobrine eliminado.
 
-el nuevo bot solo requiere del mensaje y la cantidad de mensajes que vayamos a poner, se tiene que mantener presionado la barra de mensajes del canal o usuario que
+_el nuevo bot solo requiere del mensaje y la cantidad de mensajes que vayamos a poner, se tiene que mantener presionado la barra de mensajes del canal o usuario que
 nosotros queramos spammear. eso si, el bot tiene un limite automatico, si tu cantidad de mensajes supera los 30, se pondra en modo lento, para evitar problemas con
 discord. pero si es menor a 30, sera mega rapido. 
 esta nueva version es perfecta para probarlo para pruebas de seguridad en sus discords. si necesitan mas explicaciones el programa explica bien. Gracias.

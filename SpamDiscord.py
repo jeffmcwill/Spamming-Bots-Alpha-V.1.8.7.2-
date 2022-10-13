@@ -88,7 +88,7 @@ el bot dara error y comenzara de nuevo, ten en cuenta ese pequeño detalle.
 					SpamDiscord()
 					break
 		except:
-			print("Caracteres no soportados. AÑada SOLO numeros.")					
+			print("Error en ejecutar el Bot // Caracteres no soportados. AÑada SOLO numeros.")					
 
 if __name__=="__main__":
 	SpamDiscord()

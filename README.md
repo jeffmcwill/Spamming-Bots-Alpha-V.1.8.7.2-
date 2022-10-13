@@ -1,8 +1,9 @@
-*NUEVA VERSION Alpha V.1.8.7.1
+*NUEVA VERSION Alpha V.1.8.7.2
 ------------------------------
 #cambios:
 _nuevas especificaciones en el bot de whatsapp para que el usuario pueda usarlo mejor. esperando por mas testers :)
 _los nuevos cambios futuros seran de mas cosas.
+_Algunos neuvos avisos al usar el bot de discord.
 _herobrine eliminado.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------

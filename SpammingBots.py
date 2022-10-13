@@ -9,7 +9,7 @@ import time
 #conocidas por el publico en general. Esta hecho enteramente en python 3, y se puede usar ejecutando el fichero
 #SpammingBots.py. 
 #-------------------------------------------------------------------------------------------------------------
-# Nueva version lanzada 1.8.7 *Explicaciones en el README
+# Nueva version lanzada 1.8.7.1 *Explicaciones en el README*
 def Portada():
 	print("""	    .andAHHAbnn. 
            .aAHHHAAUUAAHHHAn.

@@ -18,6 +18,8 @@ hago responsable del mal uso que le des.
 3.En limite del spam es incalculable, pero por ciertos motivos discord suele ponerte
 un limite de 30 mensajes, en esta version del programa he puesto un modo lento automatico 
 cuando superes los ese limite.
+4.Siempre mantiene el cursor presionando la barra de mensajes de discord, si tu lo sacas
+el bot dara error y comenzara de nuevo, ten en cuenta ese pequeño detalle.
 --------------------------------------------------------------------------------""")
 		time.sleep(1)
 		print("Prueba de seguridad de canales o DMs de Discord by Jeff MCWill")
